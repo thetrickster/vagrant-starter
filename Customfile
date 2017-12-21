@@ -1,0 +1,4 @@
+# Add project-specific rules here
+
+# Jekyll serve port
+config.vm.network "forwarded_port", guest: 4000, host: 4000
